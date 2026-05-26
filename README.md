@@ -80,4 +80,34 @@ Managing lengthy documents or conversations.
 - Memory systems to retain important information
 
 ---
+# Retrieval Augmented Generation (RAG)
+
+## Overview
+Retrieval Augmented Generation (RAG) is a technique that allows Large Language Models (LLMs) to access external knowledge sources while generating responses.
+
+## Key Points
+
+- RAG provides LLMs with access to external data and documents.
+- Helps reduce hallucinations by retrieving accurate information from trusted sources.
+- Enables AI systems to reference and use their own knowledge sources.
+- Uses embeddings to understand relationships and meanings within text.
+- Applies semantic search to find relevant information for answering user queries.
+
+## Benefits
+
+- Improves response accuracy
+- Provides more up-to-date information
+- Enhances reliability and transparency
+- Supports question answering and summarization tasks
+
+## Technologies Used in RAG
+
+- Embeddings
+- Vector Databases
+- Semantic Search
+- Large Language Models (LLMs)
+
+## Summary
+
+RAG combines information retrieval with text generation to create more accurate, context-aware, and reliable AI responses.
 
